@@ -3,7 +3,9 @@ What do the implementations for Map and Filter look like under the hood?
 While it is unwise to implement these ourselves, it can be helpful to see how
 these builtins work.
 
-1. Define the most likely implementations for Map and Filter. """
+1. Define the most likely implementations for Map.
+2. Define the most likely implementations for Filter.
+"""
 from typing import Callable, Iterable, Iterator
 
 

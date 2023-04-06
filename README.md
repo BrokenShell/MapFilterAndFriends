@@ -12,4 +12,4 @@ In today's workshop we will see how map and filter work and how to use them effe
 
 
 ### Anecdote
-These algorithm have been featured in over half of my software engineering interviews. Sometimes I was the interviewer, and other times I was the interviewee. Paul and Ash (our release managers) had to implement map, filter and foreach for their roles here at BloomTech. This kind of coding challenge is typically timed. I had 45 minutes for one of mine, I implemented all three in three different languages and I still had about 10 minutes left over.
+These algorithms have been featured in over half of my software engineering interviews. Sometimes I was the interviewer, and other times I was the interviewee. Paul and Ash (our release managers) had to implement map, filter and foreach for their roles here at BloomTech. This kind of coding challenge is typically timed. I had 45 minutes for one of mine, I implemented all three in three different languages and I still had about 10 minutes left over.
